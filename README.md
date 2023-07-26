@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranit Valluru 👋
 
-- 🔭 Data Science professional with 5+ years of experience developing high impact analytical self-serve solutions for various business problems
+- 🔭 Data Science professional with 5+ years of experience in developing high impact analytical self-serve solutions for business problems
 - 🧑‍🎓 Recently graduated with a Masters in Business Analytics from Carlson School of Management, University of Minnesota
 - ⚡ Passionate about applying data science and analytics to tell a story through apt visualization
 - 💬 Ask me about Music, Gaming, Anime or the technological advancements into Virtual / Augemented reality
