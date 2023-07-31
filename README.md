@@ -3,7 +3,7 @@
 - 🔭 Data Science professional with 5+ years of experience in developing high impact analytical self-serve solutions for business problems
 - 🧑‍🎓 Recently graduated with a Masters in Business Analytics from Carlson School of Management, University of Minnesota
 - ⚡ Passionate about applying data science and analytics to tell a story through apt visualization
-- 💬 Ask me about Music, Gaming, Anime or the technological advancements into Virtual / Augemented reality
+- 💬 Ask me about Gaming, Anime, Clustering or the technological advancements into Virtual / Augemented reality
 - 📫 How to reach me: pranit.srivatsa@gmail.com or connect with me on <a href = "https://www.linkedin.com/in/pranit-valluru/">LinkedIn</a>
 - 😄 Pronouns: He/Him
 
